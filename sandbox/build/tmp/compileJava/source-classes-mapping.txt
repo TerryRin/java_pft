@@ -1,2 +1,6 @@
+ru/stqa/pft/sadnbox/Square.java
+ ru.stqa.pft.sadnbox.Square
 ru/stqa/pft/sadnbox/MyFirstProgram.java
  ru.stqa.pft.sadnbox.MyFirstProgram
+ru/stqa/pft/sadnbox/Rectangle.java
+ ru.stqa.pft.sadnbox.Rectangle
