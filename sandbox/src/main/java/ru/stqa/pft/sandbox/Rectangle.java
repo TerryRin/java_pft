@@ -1,4 +1,4 @@
-package ru.stqa.pft.sadnbox;
+package ru.stqa.pft.sandbox;
 
 public class Rectangle {
 
