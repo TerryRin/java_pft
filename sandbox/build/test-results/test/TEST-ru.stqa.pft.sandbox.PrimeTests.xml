@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.stqa.pft.sandbox.PrimeTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-05-24T19:09:58" hostname="POLUSHINA-EI" time="0.014">
+<testsuite name="ru.stqa.pft.sandbox.PrimeTests" tests="2" skipped="1" failures="0" errors="0" timestamp="2021-05-24T19:10:31" hostname="POLUSHINA-EI" time="776.807">
   <properties/>
-  <testcase name="testNonPrimes" classname="ru.stqa.pft.sandbox.PrimeTests" time="0.011"/>
-  <testcase name="testPrime" classname="ru.stqa.pft.sandbox.PrimeTests" time="0.0"/>
+  <testcase name="testNonPrimes" classname="ru.stqa.pft.sandbox.PrimeTests" time="0.073"/>
+  <testcase name="testPrime" classname="ru.stqa.pft.sandbox.PrimeTests" time="776.731">
+    <skipped/>
+  </testcase>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
